@@ -6,3 +6,7 @@
 - Running the Java Test Client Program with Eclipse
 
     - https://www.interactivebrokers.com/en/software/api/apiguide/java/running_the_java_test_client_program_with_eclipse.htm
+
+- IB connector:
+
+	- https://github.com/ib-controller/ib-controller
